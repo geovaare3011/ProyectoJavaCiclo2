@@ -88,5 +88,8 @@ public class TIENDA extends JFrame {
 
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
+		
+		
+		//la vaina
 	}
 }
