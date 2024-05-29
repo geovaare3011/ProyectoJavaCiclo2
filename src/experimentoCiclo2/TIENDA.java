@@ -15,9 +15,7 @@ public class TIENDA extends JFrame {
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 
-	/**
-	 * Launch the application.
-	 */
+	//Lanza la aplicación
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -31,9 +29,7 @@ public class TIENDA extends JFrame {
 		});
 	}
 
-	/**
-	 * Create the frame.
-	 */
+	//CREA LA GUI
 	public TIENDA() {
 		setBackground(new Color(0, 0, 0));
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
