@@ -90,6 +90,6 @@ public class TIENDA extends JFrame {
 		contentPane.setLayout(null);
 		
 		
-		//la vaina
+		//la vaina esta pepepepe
 	}
 }
